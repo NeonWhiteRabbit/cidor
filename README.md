@@ -5,12 +5,20 @@ CIDOR is a simple script written in BASH (Shell Script) to take advantage of IDO
 
 This is done by fuzzing <domain>/{1-10000}/files/
 
-<h1>Usage</h1>
+<h1></h1>
+Updates:
+  
+Version 2.0.1 is out due to quick changes, possibly due to previous remediations.
 
+<h1>Usage</h1>
+  
 ./cidor.sh
 
-<b>MUST RUN AS ROOT.</b>
+<b>MUST RUN AS ROOT.</b><p>
+
 Follow prompts for input.
+-Files will be in /downloads folder<p>
+-The /temp folder can be emptied at any time, files will be copied to the /downloads folder.<p>
 
 <h2>Installation</h2>
 >>cd /opt<p><p>
@@ -21,3 +29,4 @@ Follow prompts for input.
 >>chmod +rwx -R cidor<p>
 >>cd cidor<p>
 >>./cidor.sh<p>
+
