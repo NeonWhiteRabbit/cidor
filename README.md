@@ -24,6 +24,8 @@ Follow prompts for input.
 >>cd /opt<p><p>
 >>mkdir cidor<p>
 >>cd cidor<p>
+>>mkdir temp<p>
+>>mkdir downloads<p>
 >>git clone https://github.com/n3onhacks/cidor.git<p>
 >>cd ..<p>
 >>chmod +rwx -R cidor<p>
