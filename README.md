@@ -8,9 +8,13 @@ CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure d
  https://www.youtube.com/watch?v=TxAPvd5FLmE<p>
   
 <h1></h1>
-<h3>Updates:</h3><p>
+<h3>Updates: 18-JAN-2022</h3><p>
   
-Version 2.0.1 is out due to quick changes, possibly due to previous remediations.<p>
+-Version 2.0.1 released.<p>
+-New folder structure for downloaded assets.<p>
+-Worked down to single .sh file to begin program.<p>
+-Updated Installation instructions with Video<p>
+-Added POC video to README.md<p>
 
 <h1>Usage</h1>
   
