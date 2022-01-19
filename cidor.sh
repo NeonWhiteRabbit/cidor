@@ -2,7 +2,7 @@
 #A quick little bashscript by n3on @n3onhacks
 
 #Menu
-echo "Canvas IDOR checker v.1"
+echo "CIDOR - Canvas IDOR checker v.1"
 echo "Usage: checks domain/[num]/files to check for accessible files via Canvas IDOR (CIDOR) issue"
 echo "...cleaning previous results..."
 
