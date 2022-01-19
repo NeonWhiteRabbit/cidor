@@ -9,6 +9,7 @@ This is done by fuzzing <domain>/{1-10000}/files/
 
 ./cidor.sh
 
+<b>MUST RUN AS ROOT.</b>
 Follow prompts for input.
 
 <h2>Installation</h2>
