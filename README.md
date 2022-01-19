@@ -22,10 +22,11 @@ Follow prompts for input.
 >>cd /opt  (*must be in /opt folder to work)<p><p>
 >>mkdir cidor<p>
 >>cd cidor<p>
->>mkdir temp<p>
->>mkdir downloads<p>
 >>git clone https://github.com/n3onhacks/cidor.git<p>
->>cd ..<p>
+>>cd cidor<p>
+>>mkdir downloads
+>>mkdir temp
+>>cd ..
 >>chmod +rwx -R cidor<p>
 >>cd cidor<p>
 >>./cidor.sh<p>
