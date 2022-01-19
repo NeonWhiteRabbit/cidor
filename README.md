@@ -20,8 +20,6 @@ Follow prompts for input.
 
 <h2>Installation</h2>
 >>cd /opt  (*must be in /opt folder to work)<p><p>
->>mkdir cidor<p>
->>cd cidor<p>
 >>git clone https://github.com/n3onhacks/cidor.git<p>
 >>cd cidor<p>
 >>mkdir downloads<p>
