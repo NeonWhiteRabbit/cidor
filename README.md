@@ -3,12 +3,14 @@
 
 CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure direct object references in Canvas to get leaked documents, files from colleges that use Canvas due to misconfigurations. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>)
 
+<h3>POC video</h3><p>
+(grabbing mid-term test answers from Stanford University):<p>
+ https://www.youtube.com/watch?v=TxAPvd5FLmE<p>
+  
 <h1></h1>
-Updates:
+<h3>Updates:</h3><p>
   
 Version 2.0.1 is out due to quick changes, possibly due to previous remediations.<p>
-
-POC video (grabbing mid-term test answers from Stanford University): https://www.youtube.com/watch?v=TxAPvd5FLmE
 
 <h1>Usage</h1>
   
