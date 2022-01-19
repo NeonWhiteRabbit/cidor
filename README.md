@@ -31,4 +31,4 @@ Follow prompts for input.<p>
 
 <h1>Installation Video</h1>
 
-https://www.youtube.com/watch?v=RVPJ6I6-lK0&t=5s
+https://www.youtube.com/watch?v=D1CSBlTEuYc
