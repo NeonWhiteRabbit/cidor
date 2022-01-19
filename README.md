@@ -19,7 +19,7 @@ Follow prompts for input.
 -The /temp folder can be emptied at any time, files will be copied to the /downloads folder.<p>
 
 <h2>Installation</h2>
->>cd /opt<p><p>
+>>cd /opt  (*must be in /opt folder to work)<p><p>
 >>mkdir cidor<p>
 >>cd cidor<p>
 >>mkdir temp<p>
