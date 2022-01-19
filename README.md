@@ -1,7 +1,7 @@
 <h1>CIDOR</h1> 
 <h3>Canvas IDOR v.2.0.1</h3>
 
-CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure direct object references in Canvas to get leaked documents, files from colleges due to misconfigurations. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>)
+CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure direct object references in Canvas to get leaked documents, files from colleges due to misconfigurations. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>) of WHG crew (WeHackGovernments.com).
 
 <h3>POC video</h3><p>
 (grabbing mid-term test answers from Stanford University):<p>
