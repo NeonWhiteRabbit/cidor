@@ -1,7 +1,7 @@
 <h1>CIDOR</h1> 
 <h3>Canvas IDOR v.1</h3>
 
-CIDOR is a simple script written in BASH (Shell Script) to take advantage of IDOR in Canvas to try to find leaked classes, documents, etc. with colleges that use Canvas.
+CIDOR is a simple script written in BASH (Shell Script) to take advantage of IDOR in Canvas to try to find leaked classes, documents, etc. with colleges that use Canvas. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>)
 
 This is done by fuzzing <domain>/{1-10000}/files/
 
