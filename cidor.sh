@@ -23,7 +23,7 @@ echo "..::Starting Canvas IDOR::.."
 #URL Layout Options
 a="https://"
 b=$DOMAIN
-c="/"
+c="/courses/"
 d=1
 e="/files/"
 f="cidor_results.txt"
