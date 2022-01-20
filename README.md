@@ -1,5 +1,5 @@
 <h1>CIDOR</h1> 
-<h3>Canvas IDOR v.2.2.0</h3>
+<h3>Canvas IDOR v.2.1.0</h3>
 <img src="https://raw.githubusercontent.com/n3onhacks/cidor/main/cidor-git.jpg" alt="cidor logo">
 
 **!FOLLOW INSTALLATION INSTRUCTIONS BELOW!**<p>
@@ -39,11 +39,11 @@ https://www.youtube.com/watch?v=D1CSBlTEuYc
 
 <h1>Version Control</h1>
 
-<h3>Version 2.2.0 release</h3>
+<h3>Version 2.1.0 release</h3>
 -Made more robust for renaming files, autodeleting<p>
 -Autodelete files made<p>
   
-<h3>Version 2.1.0 release</h3>
+<h3>Version 2.0.2 release</h3>
 -Added multiple files / no longer single file.<p>
 -Added automated advanced output reporting features.<p>
 
