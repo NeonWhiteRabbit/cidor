@@ -3,14 +3,14 @@
 <img src="https://raw.githubusercontent.com/n3onhacks/cidor/main/cidor-git.jpg" alt="cidor logo">
 
 **!FOLLOW INSTALLATION INSTRUCTIONS BELOW!**<p>
-CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure direct object references in Canvas to get leaked documents, files from colleges due to misconfigurations. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>) of WHG crew (https://www.WeHackGovernments.com).
+CIDOR is a script written in BASH (Shell Script) to take advantage of Insecure direct object references in Canvas to get documents, files from colleges who have items that remain open due to misconfigurations. Written by n3on (<a href="https://www.twitter.com/@n3onhacks">@n3onhacks</a>) of WHG crew (https://www.WeHackGovernments.com).
 
 <h1>Videos</h1>
 
 <h3>1. Using CIDOR Video:</h3><p>
  https://youtu.be/dgbUjN18fNs<p>
 
-<h3>2. POC - Finding STANFORD UNIVERSITY MID-TERM ANSWERS w/ CIDOR Video:</h3><p>
+<h3>2. POC - Finding OLD STANFORD UNIVERSITY MID-TERM ANSWERS w/ CIDOR Video:</h3><p>
  https://www.youtube.com/watch?v=TxAPvd5FLmE<p>
   
 <h1>Usage</h1>
