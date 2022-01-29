@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=D1CSBlTEuYc
 
 <h3>Version 2.1.0 release</h3>
 -Made more robust for renaming files, autodeleting<p>
--Autodelete files made<p>
+-Autodelete files made <p>
   
 <h3>Version 2.0.2 release</h3>
 -Added multiple files / no longer single file.<p>
